@@ -8,4 +8,3 @@
 4. Creare file index.html e commitare come "add file html"
 5. Hello world in HTML e commmitare come "add helloWorld"
 6. Creare file .gitignore e committare come "add gitignore file"
-===
